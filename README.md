@@ -29,7 +29,7 @@ The evaluation scores are reported using [trec_eval](https://github.com/usnistgo
 ## Citation
 ```
 @inproceedings{Zhang:2018:AHT,
-    author = {Zhang, Shuo and Balog, Krisztian},
+    author = {Deng, Li, Zhang, Shuo and Balog, Krisztian},
     title = {Table2Vec: Neural Word and Entity Embeddings for Table Population and Retrieval},
     booktitle = {Proceedings of SIGIR 2019},
     year = {2019},
