@@ -15,16 +15,10 @@ The query and feature files of table search can be found in [WWW2018](https://gi
  
 
 
-
-
-
-
-
-
-
-
 The evaluation scores are reported using [trec_eval](https://github.com/usnistgov/trec_eval).
 
+## Note
+Due to the size, the run files for row and column population are only accessiable per request.
 
 ## Citation
 ```
