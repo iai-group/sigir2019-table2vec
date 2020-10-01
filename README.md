@@ -4,6 +4,10 @@ This repository contains resources developed within the following paper:
 
 > L. Deng, S. Zhang, and K. Balog. Table2Vec: Neural Word and Entity Embeddings for Table Population and Retrieval. In: *Proceedings of SIGIR 2019*, July 2019.
 
+## Run files
+
+You can download a complet version of the runfiles [here](https://gustav1.ux.uis.no/downloads/sigir2019-table2vec/runfiles.zip).
+
 
 ## Test collection
 
