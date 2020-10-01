@@ -6,7 +6,7 @@ This repository contains resources developed within the following paper:
 
 ## Run files
 
-You can download a complet version of the runfiles [here](https://gustav1.ux.uis.no/downloads/sigir2019-table2vec/runfiles.zip).
+You can download a complete version of the runfiles [here](https://gustav1.ux.uis.no/downloads/sigir2019-table2vec/runfiles.zip).
 
 
 ## Test collection
